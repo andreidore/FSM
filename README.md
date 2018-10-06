@@ -1,6 +1,9 @@
 # FSM
 Finite State Machine  for Arduino
 
+## Code
+Initial code : https://playground.arduino.cc/Code/FiniteStateMachine
+
 
 ## Finite State Machine Description
 
